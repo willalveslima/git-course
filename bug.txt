@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bug
 linha 2
+=======
+bug 2 em contrucao
+>>>>>>> hotbug
